@@ -1,0 +1,11 @@
+lib/*.o
+memory
+buscador
+*.tgz
+*.tmp
+cachegrind.out.803245
+corrigeUno.res
+trec_eval
+res--Times-1a3.res
+trec_eval_8_1_linux/trec_eval
+res--Times-1a3.res

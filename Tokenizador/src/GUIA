@@ -1,0 +1,16 @@
+--> TODOS los ficheros creados y utilizados por el alumno para comprobación de la
+    práctica (además de los que se dejen disponibles a tal efecto en el campus virtual). Por ejemplo: “main1.cpp” y “main1.cpp.sal”.
+
+--> “complejidad.pdf” que contenga el cálculo de la complejidad TEÓRICA (no análisis de
+    tiempos en el ordenador) temporal y espacial (SOLO cotas del mejor y peor caso, no
+    siendo necesario un cálculo detallado por cada método del tokenizador) del
+    algoritmo de tokenización de casos especiales, además de todas las mejoras
+    introducidas y probadas en el tokenizador, tanto las que hayan tenido éxito como las
+    que no. Debe tener al menos los siguientes apartados:
+	o Introducción: presentación del problema, hipótesis de partida.
+	o Análisis de la solución implementada: algoritmo, estructuras de datos, ...
+	o Justificación de la solución elegida: detalle de qué soluciones alternativas se
+	  han probado, justificando su descarte.
+	o Análisis de las mejoras realizadas en la práctica: tanto en el algoritmo como en
+	  las estructuras de datos utilizadas.
+	o Análisis de complejidad (teórica y práctica) del tokenizador.

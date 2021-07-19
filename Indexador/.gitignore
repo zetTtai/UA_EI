@@ -1,0 +1,12 @@
+lib/*.o
+memory
+indexador
+*tmp
+indicePrueba/*
+*.res
+corpus/*.tk
+corpus_corto/*.tk
+Prueba
+myfile.txt
+*.bin
+*.tgz

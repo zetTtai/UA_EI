@@ -1,0 +1,2 @@
+corpus_corto/fichero1.txt 1 6 4 3 30	30 4 2021 18:19:40
+corpus_corto/fichero2.txt 2 5 3 2 23	30 4 2021 18:19:40
