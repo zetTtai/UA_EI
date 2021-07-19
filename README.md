@@ -10,11 +10,11 @@ Class that segments strings in words with the option to detect special cases
 # Indexador / Index
 
 From a collection of documents, generate the structures that will be used in the search phase.
-Using the hash tables: unordered_map *&&* unordered_set
+Using the hash tables: [unordered_map](https://www.cplusplus.com/reference/unordered_map/unordered_map/) *&&* [unordered_set](https://www.cplusplus.com/reference/unordered_set/unordered_set/)
 
 # Buscador / Search Engine
 Search engine implemented from the other classes (Tokenizador && IndexadorHash)
 
-In which the models are used DFR(Deviation From Randomness) *&&* Okapi BM25 to return by console an ordered list of documents (priority_queue) corresponding to the corresponding query
+In which the models are used DFR(Deviation From Randomness) *&&* Okapi BM25 to return by console an ordered list of documents ([priority_queue](https://www.cplusplus.com/reference/queue/priority_queue/)) corresponding to the corresponding query
 
 The most important class &#8594; **Current stats:** process 83 questions in 20 sec
